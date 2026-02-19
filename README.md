@@ -5,24 +5,28 @@
 | Section                     | TL;DR: Key Takeaways                                         |
 | --------------------------- | ------------------------------------------------------------ |
 | **Part 1: The Application** | **Research is king.** Your application must prove you have research potential, primarily through prior experience and glowing letters from supervisors. Your Statement of Purpose is a research proposal, not a biography. Choose your advisor even more carefully than you choose your school. |
-| **Part 2: The PhD Journey** | **Embrace the grind.** Research is non-linear and full of failure; that's normal. Master the core skills: reading papers systematically (three-pass method), writing clearly, and presenting your work persuasively. Your relationship with your advisor is paramount—manage it proactively. Protect your mental health; a PhD is a marathon, not a sprint. |
+| **Part 2: The PhD Journey** | **Embrace the grind.** Survive the first year by balancing coursework with early research. Master the core skills: reading papers (three-pass method), writing clearly, and presenting persuasively. Manage your time with intention, your advisor proactively, and your code rigorously. Collaborate widely, review papers constructively, and protect your mental health. |
 | **Part 3: The Endgame**     | **Finish strong and look ahead.** The dissertation is an engineering task of stitching your papers together. The defense is a formality. Publish your work in good venues and build your professional network at conferences. A CS PhD opens doors to academia, industry research, and beyond. |
 
 ### Full Table of Contents
 
 - [Introduction: The Essence of a PhD and the Call to Research](#introduction-the-essence-of-a-phd-and-the-call-to-research)
-- [Part 1: The Application Journey — Charting Your Course](#part-1-the-application-journey—-charting-your-course)
+- [Part 1: The Application Journey — Charting Your Course](#part-1-the-application-journey--charting-your-course)
   - [1.1 Forging a Researcher's Profile](#11-forging-a-researchers-profile)
   - [1.2 Crafting a Compelling Application Package](#12-crafting-a-compelling-application-package)
   - [1.3 The Critical Choice: School and Advisor](#13-the-critical-choice-school-and-advisor)
 - [Part 2: The Journey Within — Surviving and Thriving as a PhD Student](#part-2-the-journey-within--surviving-and-thriving-as-a-phd-student)
-  - [2.1 The Heart of the Matter: The Research Grind](#21-the-heart-of-the-matter-the-research-grind)
-  - [2.2 The Researcher's Toolkit: Essential Skills for Success](#22-the-researchers-toolkit-essential-skills-for-success)
-    - [2.2.1 Reading Scientific Papers](#221-reading-scientific-papers)
-    - [2.2.2 Writing Scientific Papers](#222-writing-scientific-papers)
-    - [2.2.3 Presenting Your Research](#223-presenting-your-research)
-  - [2.3 The Most Important Relationship: Managing Your Advisor](#23-the-most-important-relationship-managing-your-advisor)
-  - [2.4 Guarding Your Well-being: Mental Health and a Sustainable Pace](#24-guarding-your-well-being-mental-health-and-a-sustainable-pace)
+  - [2.1 The First-Year Gauntlet: Survival and Strategy](#21-the-first-year-gauntlet-survival-and-strategy)
+  - [2.2 The Heart of the Matter: The Research Grind](#22-the-heart-of-the-matter-the-research-grind)
+  - [2.3 The Researcher's Toolkit: Essential Skills for Success](#23-the-researchers-toolkit-essential-skills-for-success)
+    - [2.3.1 Reading Scientific Papers](#231-reading-scientific-papers)
+    - [2.3.2 Writing Scientific Papers](#232-writing-scientific-papers)
+    - [2.3.3 Presenting Your Research](#233-presenting-your-research)
+  - [2.4 Time Management and Productivity](#24-time-management-and-productivity)
+  - [2.5 The Researcher's Craft: Code, Data, and Collaboration](#25-the-researchers-craft-code-data-and-collaboration)
+  - [2.6 The Most Important Relationship: Managing Your Advisor](#26-the-most-important-relationship-managing-your-advisor)
+  - [2.7 Guarding Your Well-being: Mental Health and a Sustainable Pace](#27-guarding-your-well-being-mental-health-and-a-sustainable-pace)
+  - [2.8 A Guide for International Students](#28-a-guide-for-international-students)
 - [Part 3: The Endgame — Dissertation, Defense, and Life After the PhD](#part-3-the-endgame--dissertation-defense-and-life-after-the-phd)
   - [3.1 The Dissertation and Defense: Your Magnum Opus](#31-the-dissertation-and-defense-your-magnum-opus)
   - [3.2 Building Your Career: Beyond the Research](#32-building-your-career-beyond-the-research)
@@ -79,9 +83,9 @@ Your application is a narrative. It's your chance to tell the admissions committ
 
 1. **It demonstrates your expertise and passion:** It shows you understand the research landscape of a specific subfield.
 
-1. **It tells a story of your research journey:** It connects your past projects, highlighting what you learned from both successes and failures.
+2. **It tells a story of your research journey:** It connects your past projects, highlighting what you learned from both successes and failures.
 
-1. **It presents a vision for your future work:** It proposes interesting research questions and explicitly names 2-3 professors in the department whose work aligns with this vision, explaining precisely why you want to work with them [5] [7].
+3. **It presents a vision for your future work:** It proposes interesting research questions and explicitly names 2-3 professors in the department whose work aligns with this vision, explaining precisely why you want to work with them [5] [7].
 
 ### 1.3 The Critical Choice: School and Advisor
 
@@ -109,7 +113,19 @@ Karpathy also notes a useful distinction between pre-tenure and post-tenure advi
 
 Acceptance into a program is merely the passage to the real beginning of the journey. The PhD program itself is a transformative period of intense intellectual and personal growth. It is a marathon that requires a different mindset and a new set of skills compared to all prior academic endeavors. This phase is about the metamorphosis from a student into an independent researcher.
 
-### 2.1 The Heart of the Matter: The Research Grind
+### 2.1 The First-Year Gauntlet: Survival and Strategy
+
+The first year of a PhD program is a unique and often challenging period of transition. It involves a steep learning curve as students adapt to a new academic culture, navigate coursework, and begin their journey into research. Success in this initial phase requires a strategic approach and a significant shift in mindset from that of an undergraduate.
+
+**The Mindset Shift:** The most critical adjustment is moving from a consumer of knowledge to a producer of it. While undergraduate studies focus on mastering existing material, a PhD is about creating new knowledge. This requires intellectual curiosity, independence, and a high tolerance for ambiguity and failure. As Ronald Azuma emphasizes, you must have a clear and compelling reason for pursuing a PhD, as this intrinsic motivation will be essential for navigating the inevitable challenges [4].
+
+**Navigating Coursework and Exams:** Graduate-level courses are designed to provide a deep understanding of your field and to equip you with the foundational knowledge needed for research. However, it is crucial to balance coursework with research. The University of Washington's Allen School advising guide recommends getting started in research early, ideally in your first quarter [20]. This will help you find your passion, gain confidence, and build relationships with faculty and other students.
+
+Qualifying exams, or "quals," are another significant hurdle. These exams test your fundamental knowledge and research potential. The format varies widely between universities, so it is essential to understand the specific requirements of your program. The Allen School's guide suggests that the grad advising team is often more knowledgeable than individual advisors about the most current requirements for quals and other PhD milestones [20].
+
+**Finding Your Research Direction:** The first year is a time of exploration. Lab rotations, where available, provide an excellent opportunity to work in different labs and with different professors before committing to a research group. When choosing a research area, Andrej Karpathy advises looking for a "fertile ground" that aligns with your advisor's interests and has the potential for a series of related projects [1]. He also encourages students to be ambitious, noting that a 10x more important problem is at most 2-3x harder to achieve—but you must have a concrete plan of attack [1].
+
+### 2.2 The Heart of the Matter: The Research Grind
 
 Research is the central activity of a PhD. It is a creative, unpredictable, and deeply personal process. Unlike structured coursework, research is an exploration into the unknown, a path defined by iteration, frequent failure, and moments of profound discovery.
 
@@ -125,11 +141,11 @@ Research is the central activity of a PhD. It is a creative, unpredictable, and 
 
 Embracing failure is a critical mindset shift. Each failed experiment is not a mark against you but a data point that refines your understanding and guides your next steps. As Nasreen Fathima A. H. reflects, these failures are learning opportunities that illuminate the constraints and complexities of your research domain [12].
 
-### 2.2 The Researcher's Toolkit: Essential Skills for Success
+### 2.3 The Researcher's Toolkit: Essential Skills for Success
 
 Technical prowess in your specific domain is a given. However, a successful PhD requires the mastery of a broader set of academic and professional skills.
 
-#### 2.2.1 Reading Scientific Papers
+#### 2.3.1 Reading Scientific Papers
 
 The ability to efficiently and critically consume scientific literature is the foundation upon which all research is built. It is how you join the ongoing conversation in your field. S. Keshav's influential guide proposes a **"three-pass approach"** as a systematic method [13]:
 
@@ -139,7 +155,7 @@ The ability to efficiently and critically consume scientific literature is the f
 | **Second Pass** | Up to 1 hour    | A more careful read, focusing on figures, graphs, and the main thrust of the arguments, but still ignoring the fine-grained details of proofs or experimental setup. The goal is to grasp the paper's core contributions. |
 | **Third Pass**  | Several hours   | A deep, critical engagement where you attempt to virtually re-implement the paper, challenging every assumption and identifying its strengths and weaknesses. This pass is reserved for papers that are central to your own research. |
 
-#### 2.2.2 Writing Scientific Papers
+#### 2.3.2 Writing Scientific Papers
 
 Your research is only as impactful as your ability to communicate it. Clear, concise, and compelling writing is not a soft skill; it is a core technical requirement of a researcher. The consensus among many guides is that **clarity is king** [14] [15].
 
@@ -149,13 +165,59 @@ Bill Freeman's guide on writing for a top conference like CVPR highlights the pa
 
 A well-structured paper typically follows a clear arc: it begins by motivating the problem and establishing its significance, then reviews related work to position the contribution, presents the proposed method or theory, provides rigorous experimental validation, and concludes with a discussion of limitations and future directions. Each section should flow logically into the next, creating a compelling narrative that guides the reader from problem to solution.
 
-#### 2.2.3 Presenting Your Research
+#### 2.3.3 Presenting Your Research
 
 Giving a good talk is a performance, an act of teaching and persuasion. The goal is not to cram every technical detail from your paper into a 20-minute slot but to convey the core intuition, the significance of the problem, and the elegance of your solution. Michael Ernst suggests thinking of your talk as an "advertisement for your paper" [16].
 
 Jonathan Shewchuk's detailed guide emphasizes the importance of structure, storytelling, and practice. He advises against simply reading your slides and instead using them as a visual aid to support your narrative [17]. Mastering the art of the academic talk is crucial for disseminating your work and building your professional reputation.
 
-### 2.3 The Most Important Relationship: Managing Your Advisor
+### 2.4 Time Management and Productivity
+
+A PhD is a marathon, not a sprint, and effective time management is crucial for maintaining a sustainable pace and avoiding burnout. The unstructured nature of research, combined with the demands of coursework and teaching, requires a deliberate and strategic approach.
+
+**The "Slow Productivity" Mindset:** Georgetown professor Cal Newport advocates for a more sustainable approach he terms "slow productivity." This philosophy is particularly relevant for PhD students. The core tenets are:
+
+- **Do Less:** Focus on a smaller number of tasks to allow for deeper engagement and higher quality work.
+- **Do Better:** With a reduced workload, you can dedicate more time and energy to each task.
+- **Know Why:** Find meaning and intellectual fulfillment in your work to drive long-term productivity [21].
+
+**Actionable Strategies:**
+
+| Strategy                     | Description                                                  |
+| ---------------------------- | ------------------------------------------------------------ |
+| **ABC Prioritization**       | Label tasks with A (must do today), B (should do soon), and C (can wait) priorities. Focus on A-tasks first each day [22]. |
+| **Weekly Planning**          | Plan the upcoming week on Friday or Sunday. Identify the three most important tasks for each day to maintain focus and avoid feeling overwhelmed [22]. |
+| **Time Blocking**            | Use a calendar to block out dedicated time for research, writing, and other important tasks. This protects your most productive hours from interruptions. |
+| **Deep Work (Pomodoro)**     | Work in focused 25-minute intervals followed by short breaks. Minimize distractions by avoiding "quick checks" of email and social media during deep work sessions [21]. |
+| **Integrate, Don't Isolate** | Find synergies between responsibilities. A course project can explore a new research idea; TA duties can deepen your understanding of fundamentals [22]. |
+
+### 2.5 The Researcher's Craft: Code, Data, and Collaboration
+
+Modern computer science research is often a highly technical and collaborative endeavor. Mastering the craft of research engineering is essential for producing reliable, verifiable, and impactful work.
+
+**Research Engineering and Experiment Management:**
+
+The three pillars of effective research engineering are **reproducibility**, **automation**, and **documentation**. Reproducibility is the cornerstone of scientific inquiry. To ensure that your work can be replicated by others, you must meticulously manage your code, data, and computational environment. This includes using version control (Git) and associating each experiment with a specific commit hash, managing randomness by setting explicit random seeds for all relevant libraries (e.g., NumPy, PyTorch), and using tools like `conda` or Docker to create reproducible computational environments [23] [24].
+
+Automation is the key to taming the complexity of modern research. As Lalith Suresh, a systems researcher, puts it, you should "automate your experiments like a maniac" [25]. A fully automated workflow—from checking out the code and setting up the infrastructure to running experiments, collecting results, and generating plots—saves time, reduces the risk of human error, and makes it easier to explore a wider range of hypotheses.
+
+Good documentation serves two primary purposes: it helps you remember the details of your own work, and it enables others to understand and build upon your research. This includes code documentation (docstrings, comments) and project documentation (a `README` file with setup instructions and a description of the project) [26].
+
+**Collaboration:**
+
+Collaboration is the lifeblood of modern research. The stereotype of the lone scientist is a far cry from the reality of contemporary CS research, which is increasingly interdisciplinary and team-oriented. By partnering with others, you can tap into their unique knowledge and technical abilities, which may be complementary to your own [27].
+
+To find collaborators, leverage your existing network (advisor, lab mates, other faculty), explore the literature to identify researchers working on complementary problems, and attend conferences and seminars. When you initiate a collaboration, it is crucial to set clear expectations regarding roles, responsibilities, timelines, and authorship from the outset [27].
+
+**Peer Review and Rebuttal:**
+
+Writing a good peer review is a critical skill that benefits both the community and your own development as a researcher. A constructive review should be fair, clear, and thorough, acknowledging the paper's strengths as well as its weaknesses. Structure your review with a brief summary, a list of strengths, a detailed discussion of weaknesses with concrete suggestions, and an overall assessment [19].
+
+When you receive reviews, the rebuttal is your opportunity to respond to the reviewers' comments and clarify any misunderstandings. Meredith Ringel Morris advises to "read the reviews, then sleep on it" before responding [28]. The "arm-the-champion" strategy, described by Danfeng (Daphne) Yao, is highly effective: provide your most supportive reviewer with the arguments and evidence they need to defend your paper during the program committee meeting [29]. When addressing criticisms, be polite, professional, and direct, providing concrete evidence such as new experimental results or clarifications to support your claims [28].
+
+Rejection is an inevitable part of academic life. As Niklas Elmqvist notes, "All scientists, even the very best ones, have papers rejected." Do not take rejection personally. View it as a learning opportunity, discuss the reviews with your advisor, and decide whether to revise and resubmit or move on [28].
+
+### 2.6 The Most Important Relationship: Managing Your Advisor
 
 The advisor-student relationship is universally cited as the single most critical factor in a PhD student's success and mental well-being [4] [9]. This is a professional relationship that you have a responsibility to actively manage. It is an apprenticeship, not a typical boss-employee dynamic.
 
@@ -163,7 +225,7 @@ Mark Dredze and Hanna Wallach recommend a structured approach to your interactio
 
 If the relationship becomes dysfunctional, do not suffer in silence. Seek advice from other faculty, the department head, or graduate student services. While switching advisors is a difficult step, it is sometimes the necessary one for your own career and well-being [4].
 
-### 2.4 Guarding Your Well-being: Mental Health and a Sustainable Pace
+### 2.7 Guarding Your Well-being: Mental Health and a Sustainable Pace
 
 The PhD journey is a marathon that takes a significant mental and emotional toll. The unstructured nature of research, the constant evaluation, and the delayed gratification can lead to feelings of isolation, anxiety, and imposter syndrome.
 
@@ -174,6 +236,18 @@ The PhD journey is a marathon that takes a significant mental and emotional toll
 Zhaocheng Zhu speaks of creating a "sustainable energy system" for yourself, one that doesn't rely solely on the sparse and noisy reward signals of paper acceptances [7]. The key insight is that your sense of progress and self-worth should come from multiple sources—learning new things, building skills, mentoring others, and enjoying life outside the lab—rather than being tied exclusively to publication outcomes.
 
 **The Power of Peers:** Your fellow PhD students are your most important support system. They are the only ones who truly understand the unique pressures and triumphs of the journey. These are your future colleagues, collaborators, and lifelong friends. Nurture these relationships. They are, as Jennifer Wortman Vaughan notes, the most valuable and lasting connections you will make [18].
+
+### 2.8 A Guide for International Students
+
+International students face a unique set of challenges and opportunities when pursuing a PhD in the United States. Navigating visa regulations, adapting to a new culture, and overcoming language barriers requires resilience and a proactive approach.
+
+**Visa and Funding:** The F-1 visa is the standard for international students, and it requires proof of funding for the entire duration of the program. Fortunately, as the "Demystifying PhD Admissions" guide repeatedly emphasizes, CS PhD programs in the US are almost always fully funded, including tuition, health insurance, and a stipend [30]. The guide even quantifies the total cost of a PhD program at around $400,000—all of which is covered by the university. This is a critical piece of information that can alleviate one of the biggest concerns for international students. During the program, students should also familiarize themselves with CPT (Curricular Practical Training) and OPT (Optional Practical Training) as pathways for internships and post-graduation employment.
+
+**Cultural and Linguistic Adaptation:** While English proficiency tests like TOEFL or IELTS are a requirement for admission, the real challenge lies in mastering the nuances of academic and social communication. Academic English—writing papers, giving talks, participating in discussions—demands a level of fluency that goes beyond test scores. Don't be afraid to ask for clarification if you don't understand something, and take advantage of any language and communication support services offered by your university.
+
+Building a diverse social network, with both international and domestic students, can also help you adapt more quickly to the new cultural environment. Engaging in department social events, joining student organizations, and participating in cultural exchange activities can ease the transition and enrich your experience.
+
+**Building a Support Network:** A strong support system is essential for navigating the challenges of a PhD, especially for international students who are far from home. Actively seek out and connect with other international students in your department and across the university. Many universities have international student organizations and dedicated offices that can provide a sense of community and a valuable source of information and support. Your fellow international students, who share similar experiences and challenges, can be an invaluable source of practical advice and emotional support.
 
 ---
 
@@ -221,66 +295,127 @@ The PhD is not just a training for a specific job; it is a training in how to th
 
 As this guide has surveyed, the PhD is a profound and multifaceted journey. It is a path of intellectual discovery, personal growth, and immense challenge. It begins with a strategic application, continues through the crucible of research, and culminates in a transition to a career at the forefront of knowledge. For those with the passion, curiosity, and perseverance to see it through, it is one of the most rewarding experiences imaginable.
 
-[1]: http://karpathy.github.io/2016/09/07/phd/ "Karpathy, A. (2016). A Survival Guide to a PhD."
-[2]: http://matt.might.net/articles/phd-school-in-pictures/ "Might, M. (2010). The Illustrated Guide to a Ph.D."
-[3]: https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf "Harchol-Balter, M. (2009). Applying to Ph.D. Programs in Computer Science."
-[4]: https://www.cs.unc.edu/~azuma/hitch4.html "Azuma, R. (1997). So Long, and Thanks for the Ph.D.!"
-[5]: https://cs.stanford.edu/~sadigh/stair-guide.html "Sadigh, D. A Guide to Applying to CS PhD Programs."
-[6]: https://timdettmers.com/2018/11/26/phd-applications/ "Dettmers, T. (2018). PhD Applications — A guide for CS students."
-[7]: https://zhuanlan.zhihu.com/p/600923838 "Zhu, Z. (2022). 博士这五年 (My Five Years as a PhD Student)."
-[8]: https://timdettmers.com/2022/03/21/how-to-choose-a-phd-program/ "Dettmers, T. (2022). How to choose a PhD program."
-[9]: https://www.cs.cmu.edu/~dredze/papers/dredze12how.pdf "Dredze, M., & Wallach, H. (2012). How to Be a Successful PhD Student."
-[10]: https://www.askuznetsov.com/post/the-ultimate-guide-to-choosing-a-phd-advisor "Kuznetsov, A. (2022). The Ultimate Guide to Choosing a PhD Advisor."
-[11]: https://maithraraghu.com/blog/2022/Reflections_on_my_PhD_Journey/ "Raghu, M. (2022). Reflections on my PhD Journey."
-[12]: https://nasreen-fathima-a-h.medium.com/my-phd-journey-in-a-nutshell-d5954848a213 "Nasreen Fathima A. H. (2023). My PhD Journey in a Nutshell."
-[13]: https://web.stanford.edu/class/cs244/papers/keshav-read-paper.pdf "Keshav, S. (2007). How to Read a Paper."
-[14]: https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf "Freeman, W. T. (2013). How to write a great paper for a top conference (e.g., CVPR)."
-[15]: https://people.csail.mit.edu/fredo/student/ "Durand, F. (2014). How to write a great paper."
-[16]: https://homes.cs.washington.edu/~mernst/advice/giving-a-talk.html "Ernst, M. D. (2020). Giving a technical presentation."
-[17]: https://www.cs.cmu.edu/~jrs/sacs.html "Shewchuk, J. R. (1997). Giving an Academic Talk."
-[18]: https://jennwv.com/projects/advice/first_conference.html "Wortman Vaughan, J. (2019). Tips for First-time Conference Attendees."
-[19]: https://www.danielamwitten.com/talk/10-simple-rules-for-reviewing-a-manuscript/ "Witten, D. (2020). Ten simple rules for reviewing a manuscript."
-
 ---
 
 ## References
-[1] http://karpathy.github.io/2016/09/07/phd/ "Karpathy, A. (2016). A Survival Guide to a PhD."
 
-[2] http://matt.might.net/articles/phd-school-in-pictures/ "Might, M. (2010). The Illustrated Guide to a Ph.D."
+[1] Karpathy, A. (2016). A Survival Guide to a PhD. [Link](http://karpathy.github.io/2016/09/07/phd/)
 
-[3] https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf "Harchol-Balter, M. (2009). Applying to Ph.D. Programs in Computer Science."
+[2] Might, M. (2010). The Illustrated Guide to a Ph.D. [Link](http://matt.might.net/articles/phd-school-in-pictures/)
 
-[4] https://www.cs.unc.edu/~azuma/hitch4.html "Azuma, R. (1997). So Long, and Thanks for the Ph.D.!"
+[3] Harchol-Balter, M. (2009). Applying to Ph.D. Programs in Computer Science. [Link](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
-[5]https://cs.stanford.edu/~sadigh/stair-guide.html "Sadigh, D. A Guide to Applying to CS PhD Programs."
+[4] Azuma, R. (1997). So Long, and Thanks for the Ph.D.! [Link](https://www.cs.unc.edu/~azuma/hitch4.html)
 
-[6] https://timdettmers.com/2018/11/26/phd-applications/ "Dettmers, T. (2018). PhD Applications — A guide for CS students."
+[5] Sadigh, D. A Guide to Applying to CS PhD Programs. [Link](https://cs.stanford.edu/~sadigh/stair-guide.html)
 
-[7] https://zhuanlan.zhihu.com/p/600923838 "Zhu, Z. (2022). 博士这五年 (My Five Years as a PhD Student)."
+[6] Dettmers, T. (2018). PhD Applications — A guide for CS students. [Link](https://timdettmers.com/2018/11/26/phd-applications/)
 
-[8] https://timdettmers.com/2022/03/21/how-to-choose-a-phd-program/ "Dettmers, T. (2022). How to choose a PhD program."
+[7] Zhu, Z. (2022). 博士这五年 (My Five Years as a PhD Student). [Link](https://zhuanlan.zhihu.com/p/600923838)
 
-[9] https://www.cs.cmu.edu/~dredze/papers/dredze12how.pdf "Dredze, M., & Wallach, H. (2012). How to Be a Successful PhD Student."
+[8] Dettmers, T. (2022). How to choose a PhD program. [Link](https://timdettmers.com/2022/03/21/how-to-choose-a-phd-program/)
 
-[10] https://www.askuznetsov.com/post/the-ultimate-guide-to-choosing-a-phd-advisor "Kuznetsov, A. (2022). The Ultimate Guide to Choosing a PhD Advisor."
+[9] Dredze, M., & Wallach, H. (2012). How to Be a Successful PhD Student. [Link](https://www.cs.cmu.edu/~dredze/papers/dredze12how.pdf)
 
-[11] https://maithraraghu.com/blog/2022/Reflections_on_my_PhD_Journey/ "Raghu, M. (2022). Reflections on my PhD Journey."
+[10] Kuznetsov, A. (2022). The Ultimate Guide to Choosing a PhD Advisor. [Link](https://www.askuznetsov.com/post/the-ultimate-guide-to-choosing-a-phd-advisor)
 
-[12] https://nasreen-fathima-a-h.medium.com/my-phd-journey-in-a-nutshell-d5954848a213 "Nasreen Fathima A. H. (2023). My PhD Journey in a Nutshell."
+[11] Raghu, M. (2022). Reflections on my PhD Journey. [Link](https://maithraraghu.com/blog/2022/Reflections_on_my_PhD_Journey/)
 
-[13] https://web.stanford.edu/class/cs244/papers/keshav-read-paper.pdf "Keshav, S. (2007). How to Read a Paper."
+[12] Nasreen Fathima A. H. (2023). My PhD Journey in a Nutshell. [Link](https://nasreen-fathima-a-h.medium.com/my-phd-journey-in-a-nutshell-d5954848a213)
 
-[14] https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf "Freeman, W. T. (2013). How to write a great paper for a top conference (e.g., CVPR)."
+[13] Keshav, S. (2007). How to Read a Paper. [Link](https://web.stanford.edu/class/cs244/papers/keshav-read-paper.pdf)
 
-[15] https://people.csail.mit.edu/fredo/student/ "Durand, F. (2014). How to write a great paper."
+[14] Freeman, W. T. (2013). How to write a great paper for a top conference (e.g., CVPR). [Link](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
 
-[16] https://homes.cs.washington.edu/~mernst/advice/giving-a-talk.html "Ernst, M. D. (2020). Giving a technical presentation."
+[15] Durand, F. (2014). How to write a great paper. [Link](https://people.csail.mit.edu/fredo/student/)
 
-[17] https://www.cs.cmu.edu/~jrs/sacs.html "Shewchuk, J. R. (1997). Giving an Academic Talk."
+[16] Ernst, M. D. (2020). Giving a technical presentation. [Link](https://homes.cs.washington.edu/~mernst/advice/giving-a-talk.html)
 
-[18] https://jennwv.com/projects/advice/first_conference.html "Wortman Vaughan, J. (2019). Tips for First-time Conference Attendees."
+[17] Shewchuk, J. R. (1997). Giving an Academic Talk. [Link](https://www.cs.cmu.edu/~jrs/sacs.html)
 
-[19] https://www.danielamwitten.com/talk/10-simple-rules-for-reviewing-a-manuscript/ "Witten, D. (2020). Ten simple rules for reviewing a manuscript."
+[18] Wortman Vaughan, J. (2019). Tips for First-time Conference Attendees. [Link](https://jennwv.com/projects/advice/first_conference.html)
+
+[19] Witten, D. (2020). Ten simple rules for reviewing a manuscript. [Link](https://www.danielamwitten.com/talk/10-simple-rules-for-reviewing-a-manuscript/)
+
+[20] University of Washington Allen School. (n.d.). Your First Year. [Link](https://www.cs.washington.edu/academics/graduate/phd-program/handbook/advising-guide/first-year/)
+
+[21] Newport, C. / Georgetown University. (2022). A Slower Way to Amp Up Your Productivity. [Link](https://www.georgetown.edu/news/how-to-improve-your-productivity-and-focus/)
+
+[22] Mechanic, D. R. (n.d.). Time Management for Graduate Students in Computer Science. Columbia University. [Link](https://www.cs.columbia.edu/wp-content/uploads/2016/03/Time-Management-for-Graduate-Students-in-Computer-Science.pdf)
+
+[23] Stutz, D. (2022). The Importance of Effectively Experimenting in an AI PhD. [Link](https://davidstutz.de/the-importance-of-effectively-experimenting-in-an-ai-phd/)
+
+[24] The Turing Way Community. (2022). The Turing Way: A Handbook for Reproducible Data Science. [Link](https://book.the-turing-way.org/reproducible-research/reproducible-research/)
+
+[25] Suresh, L. (2020). Low-level Advice for Systems Research. [Link](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
+
+[26] Mineault, P. (2021). The Good Research Code Handbook. [Link](https://goodresearch.dev/index.html)
+
+[27] CST. (n.d.). A Guide to Successful Research Collaboration. [Link](https://blog.cellsignal.com/guide-to-successful-research-collaboration)
+
+[28] Parikh, D., Batra, D., & Lee, S. (2020). How We Write Rebuttals. [Link](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1)
+
+[29] Yao, D. (2023). Rebuttal How-to: Strategies, Tactics, and the Big Picture in Research. [Link](https://people.cs.vt.edu/~danfeng/papers/Yao-Rebuttal-Howto.pdf)
+
+[30] Nguyen, T. (n.d.). Demystifying PhD Admissions in Computer Science. [Link](https://roars.dev/phd-cs-us/demystify.pdf)
 
 
+[1]: http://karpathy.github.io/2016/09/07/phd/ "Karpathy, A. (2016). A Survival Guide to a PhD."
 
+[2]: http://matt.might.net/articles/phd-school-in-pictures/ "Might, M. (2010). The Illustrated Guide to a Ph.D."
+
+[3]: https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf "Harchol-Balter, M. (2009). Applying to Ph.D. Programs in Computer Science."
+
+[4]: https://www.cs.unc.edu/~azuma/hitch4.html "Azuma, R. (1997). So Long, and Thanks for the Ph.D.!"
+
+[5]: https://cs.stanford.edu/~sadigh/stair-guide.html "Sadigh, D. A Guide to Applying to CS PhD Programs."
+
+[6]: https://timdettmers.com/2018/11/26/phd-applications/ "Dettmers, T. (2018). PhD Applications — A guide for CS students."
+
+[7]: https://zhuanlan.zhihu.com/p/600923838 "Zhu, Z. (2022). 博士这五年 (My Five Years as a PhD Student)."
+
+[8]: https://timdettmers.com/2022/03/21/how-to-choose-a-phd-program/ "Dettmers, T. (2022). How to choose a PhD program."
+
+[9]: https://www.cs.cmu.edu/~dredze/papers/dredze12how.pdf "Dredze, M., & Wallach, H. (2012). How to Be a Successful PhD Student."
+
+[10]: https://www.askuznetsov.com/post/the-ultimate-guide-to-choosing-a-phd-advisor "Kuznetsov, A. (2022). The Ultimate Guide to Choosing a PhD Advisor."
+
+[11]: https://maithraraghu.com/blog/2022/Reflections_on_my_PhD_Journey/ "Raghu, M. (2022). Reflections on my PhD Journey."
+
+[12]: https://nasreen-fathima-a-h.medium.com/my-phd-journey-in-a-nutshell-d5954848a213 "Nasreen Fathima A. H. (2023). My PhD Journey in a Nutshell."
+
+[13]: https://web.stanford.edu/class/cs244/papers/keshav-read-paper.pdf "Keshav, S. (2007). How to Read a Paper."
+
+[14]: https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf "Freeman, W. T. (2013). How to write a great paper for a top conference (e.g., CVPR)."
+
+[15]: https://people.csail.mit.edu/fredo/student/ "Durand, F. (2014). How to write a great paper."
+
+[16]: https://homes.cs.washington.edu/~mernst/advice/giving-a-talk.html "Ernst, M. D. (2020). Giving a technical presentation."
+
+[17]: https://www.cs.cmu.edu/~jrs/sacs.html "Shewchuk, J. R. (1997). Giving an Academic Talk."
+
+[18]: https://jennwv.com/projects/advice/first_conference.html "Wortman Vaughan, J. (2019). Tips for First-time Conference Attendees."
+
+[19]: https://www.danielamwitten.com/talk/10-simple-rules-for-reviewing-a-manuscript/ "Witten, D. (2020). Ten simple rules for reviewing a manuscript."
+
+[20]: https://www.cs.washington.edu/academics/graduate/phd-program/handbook/advising-guide/first-year/ "University of Washington Allen School. (n.d.). Your First Year."
+
+[21]: https://www.georgetown.edu/news/how-to-improve-your-productivity-and-focus/ "Newport, C. / Georgetown University. (2022). A Slower Way to Amp Up Your Productivity."
+
+[22]: https://www.cs.columbia.edu/wp-content/uploads/2016/03/Time-Management-for-Graduate-Students-in-Computer-Science.pdf "Mechanic, D. R. (n.d.). Time Management for Graduate Students in Computer Science. Columbia University."
+
+[23]: https://davidstutz.de/the-importance-of-effectively-experimenting-in-an-ai-phd/ "Stutz, D. (2022). The Importance of Effectively Experimenting in an AI PhD."
+
+[24]: https://book.the-turing-way.org/reproducible-research/reproducible-research/ "The Turing Way Community. (2022). The Turing Way: A Handbook for Reproducible Data Science."
+
+[25]: https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/ "Suresh, L. (2020). Low-level Advice for Systems Research."
+
+[26]: https://goodresearch.dev/index.html "Mineault, P. (2021). The Good Research Code Handbook."
+
+[27]: https://blog.cellsignal.com/guide-to-successful-research-collaboration "CST. (n.d.). A Guide to Successful Research Collaboration."
+
+[28]: https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1 "Parikh, D., Batra, D., & Lee, S. (2020). How We Write Rebuttals."
+
+[29]: https://people.cs.vt.edu/~danfeng/papers/Yao-Rebuttal-Howto.pdf "Yao, D. (2023). Rebuttal How-to: Strategies, Tactics, and the Big Picture in Research."
+
+[30]: https://roars.dev/phd-cs-us/demystify.pdf "Nguyen, T. (n.d.). Demystifying PhD Admissions in Computer Science."
