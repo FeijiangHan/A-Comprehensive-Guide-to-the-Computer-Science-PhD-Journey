@@ -11,11 +11,11 @@
 ### Full Table of Contents
 
 - [Introduction: The Essence of a PhD and the Call to Research](#introduction-the-essence-of-a-phd-and-the-call-to-research)
-- [Part 1: The Application Journey — Charting Your Course](#part-1-:-the-application-journey-—-charting-your-course)
+- [Part 1: The Application Journey — Charting Your Course](#part-1-the-application-journey-—-charting-your-course)
   - [1.1 Forging a Researcher's Profile](#11-forging-a-researchers-profile)
   - [1.2 Crafting a Compelling Application Package](#12-crafting-a-compelling-application-package)
   - [1.3 The Critical Choice: School and Advisor](#13-the-critical-choice-school-and-advisor)
-- [Part 2: The Journey Within — Surviving and Thriving as a PhD Student](#part-2:-the-journey-within-—-surviving-and-thriving-as-a-phd-student)
+- [Part 2: The Journey Within — Surviving and Thriving as a PhD Student](#part-2-the-journey-within-—-surviving-and-thriving-as-a-phd-student)
   - [2.1 The Heart of the Matter: The Research Grind](#21-the-heart-of-the-matter-the-research-grind)
   - [2.2 The Researcher's Toolkit: Essential Skills for Success](#22-the-researchers-toolkit-essential-skills-for-success)
     - [2.2.1 Reading Scientific Papers](#221-reading-scientific-papers)
@@ -23,7 +23,7 @@
     - [2.2.3 Presenting Your Research](#223-presenting-your-research)
   - [2.3 The Most Important Relationship: Managing Your Advisor](#23-the-most-important-relationship-managing-your-advisor)
   - [2.4 Guarding Your Well-being: Mental Health and a Sustainable Pace](#24-guarding-your-well-being-mental-health-and-a-sustainable-pace)
-- [Part 3: The Endgame — Dissertation, Defense, and Life After the PhD](#part-3:-the-endgame-—-dissertation-defense-and-life-after-the-phd)
+- [Part 3: The Endgame — Dissertation, Defense, and Life After the PhD](#part-3-the-endgame-—-dissertation-defense-and-life-after-the-phd)
   - [3.1 The Dissertation and Defense: Your Magnum Opus](#31-the-dissertation-and-defense-your-magnum-opus)
   - [3.2 Building Your Career: Beyond the Research](#32-building-your-career-beyond-the-research)
   - [3.3 Life After the PhD: Academia, Industry, and Beyond](#33-life-after-the-phd-academia-industry-and-beyond)
