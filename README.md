@@ -192,10 +192,6 @@ The PhD is not just a training for a specific job; it is a training in how to th
 
 As this guide has surveyed, the PhD is a profound and multifaceted journey. It is a path of intellectual discovery, personal growth, and immense challenge. It begins with a strategic application, continues through the crucible of research, and culminates in a transition to a career at the forefront of knowledge. For those with the passion, curiosity, and perseverance to see it through, it is one of the most rewarding experiences imaginable.
 
----
-
-## References
-
 [1]: http://karpathy.github.io/2016/09/07/phd/ "Karpathy, A. (2016). A Survival Guide to a PhD."
 [2]: http://matt.might.net/articles/phd-school-in-pictures/ "Might, M. (2010). The Illustrated Guide to a Ph.D."
 [3]: https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf "Harchol-Balter, M. (2009). Applying to Ph.D. Programs in Computer Science."
@@ -215,4 +211,47 @@ As this guide has surveyed, the PhD is a profound and multifaceted journey. It i
 [17]: https://www.cs.cmu.edu/~jrs/sacs.html "Shewchuk, J. R. (1997). Giving an Academic Talk."
 [18]: https://jennwv.com/projects/advice/first_conference.html "Wortman Vaughan, J. (2019). Tips for First-time Conference Attendees."
 [19]: https://www.danielamwitten.com/talk/10-simple-rules-for-reviewing-a-manuscript/ "Witten, D. (2020). Ten simple rules for reviewing a manuscript."
+
+---
+
+## References
+[1] http://karpathy.github.io/2016/09/07/phd/ "Karpathy, A. (2016). A Survival Guide to a PhD."
+
+[2] http://matt.might.net/articles/phd-school-in-pictures/ "Might, M. (2010). The Illustrated Guide to a Ph.D."
+
+[3] https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf "Harchol-Balter, M. (2009). Applying to Ph.D. Programs in Computer Science."
+
+[4] https://www.cs.unc.edu/~azuma/hitch4.html "Azuma, R. (1997). So Long, and Thanks for the Ph.D.!"
+
+[5]https://cs.stanford.edu/~sadigh/stair-guide.html "Sadigh, D. A Guide to Applying to CS PhD Programs."
+
+[6] https://timdettmers.com/2018/11/26/phd-applications/ "Dettmers, T. (2018). PhD Applications — A guide for CS students."
+
+[7] https://zhuanlan.zhihu.com/p/600923838 "Zhu, Z. (2022). 博士这五年 (My Five Years as a PhD Student)."
+
+[8] https://timdettmers.com/2022/03/21/how-to-choose-a-phd-program/ "Dettmers, T. (2022). How to choose a PhD program."
+
+[9] https://www.cs.cmu.edu/~dredze/papers/dredze12how.pdf "Dredze, M., & Wallach, H. (2012). How to Be a Successful PhD Student."
+
+[10] https://www.askuznetsov.com/post/the-ultimate-guide-to-choosing-a-phd-advisor "Kuznetsov, A. (2022). The Ultimate Guide to Choosing a PhD Advisor."
+
+[11] https://maithraraghu.com/blog/2022/Reflections_on_my_PhD_Journey/ "Raghu, M. (2022). Reflections on my PhD Journey."
+
+[12] https://nasreen-fathima-a-h.medium.com/my-phd-journey-in-a-nutshell-d5954848a213 "Nasreen Fathima A. H. (2023). My PhD Journey in a Nutshell."
+
+[13] https://web.stanford.edu/class/cs244/papers/keshav-read-paper.pdf "Keshav, S. (2007). How to Read a Paper."
+
+[14] https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf "Freeman, W. T. (2013). How to write a great paper for a top conference (e.g., CVPR)."
+
+[15] https://people.csail.mit.edu/fredo/student/ "Durand, F. (2014). How to write a great paper."
+
+[16] https://homes.cs.washington.edu/~mernst/advice/giving-a-talk.html "Ernst, M. D. (2020). Giving a technical presentation."
+
+[17] https://www.cs.cmu.edu/~jrs/sacs.html "Shewchuk, J. R. (1997). Giving an Academic Talk."
+
+[18] https://jennwv.com/projects/advice/first_conference.html "Wortman Vaughan, J. (2019). Tips for First-time Conference Attendees."
+
+[19] https://www.danielamwitten.com/talk/10-simple-rules-for-reviewing-a-manuscript/ "Witten, D. (2020). Ten simple rules for reviewing a manuscript."
+
+
 
