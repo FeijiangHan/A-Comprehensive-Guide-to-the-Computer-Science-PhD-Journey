@@ -1,5 +1,34 @@
 # A Comprehensive Guide to the Computer Science PhD Journey: A Survey of Collected Wisdom
 
+## Table of Contents & TL;DR
+
+| Section                     | TL;DR: Key Takeaways                                         |
+| --------------------------- | ------------------------------------------------------------ |
+| **Part 1: The Application** | **Research is king.** Your application must prove you have research potential, primarily through prior experience and glowing letters from supervisors. Your Statement of Purpose is a research proposal, not a biography. Choose your advisor even more carefully than you choose your school. |
+| **Part 2: The PhD Journey** | **Embrace the grind.** Research is non-linear and full of failure; that's normal. Master the core skills: reading papers systematically (three-pass method), writing clearly, and presenting your work persuasively. Your relationship with your advisor is paramount—manage it proactively. Protect your mental health; a PhD is a marathon, not a sprint. |
+| **Part 3: The Endgame**     | **Finish strong and look ahead.** The dissertation is an engineering task of stitching your papers together. The defense is a formality. Publish your work in good venues and build your professional network at conferences. A CS PhD opens doors to academia, industry research, and beyond. |
+
+### Full Table of Contents
+
+- [Introduction: The Essence of a PhD and the Call to Research](#introduction-the-essence-of-a-phd-and-the-call-to-research)
+- [Part 1: The Application Journey — Charting Your Course](#part-1-the-application-journey-—-charting-your-course)
+  - [1.1 Forging a Researcher's Profile](#11-forging-a-researchers-profile)
+  - [1.2 Crafting a Compelling Application Package](#12-crafting-a-compelling-application-package)
+  - [1.3 The Critical Choice: School and Advisor](#13-the-critical-choice-school-and-advisor)
+- [Part 2: The Journey Within — Surviving and Thriving as a PhD Student](#part-2-the-journey-within-—-surviving-and-thriving-as-a-phd-student)
+  - [2.1 The Heart of the Matter: The Research Grind](#21-the-heart-of-the-matter-the-research-grind)
+  - [2.2 The Researcher's Toolkit: Essential Skills for Success](#22-the-researchers-toolkit-essential-skills-for-success)
+    - [2.2.1 Reading Scientific Papers](#221-reading-scientific-papers)
+    - [2.2.2 Writing Scientific Papers](#222-writing-scientific-papers)
+    - [2.2.3 Presenting Your Research](#223-presenting-your-research)
+  - [2.3 The Most Important Relationship: Managing Your Advisor](#23-the-most-important-relationship-managing-your-advisor)
+  - [2.4 Guarding Your Well-being: Mental Health and a Sustainable Pace](#24-guarding-your-well-being-mental-health-and-a-sustainable-pace)
+- [Part 3: The Endgame — Dissertation, Defense, and Life After the PhD](#part-3-the-endgame-—-dissertation-defense-and-life-after-the-phd)
+  - [3.1 The Dissertation and Defense: Your Magnum Opus](#31-the-dissertation-and-defense-your-magnum-opus)
+  - [3.2 Building Your Career: Beyond the Research](#32-building-your-career-beyond-the-research)
+  - [3.3 Life After the PhD: Academia, Industry, and Beyond](#33-life-after-the-phd-academia-industry-and-beyond)
+- [References](#references)
+
 ---
 
 ## Introduction: The Essence of a PhD and the Call to Research
